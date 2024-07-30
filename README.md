@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" width="480" height="480">
+  <img align="right" alt="GIPHY GIF" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" style="max-width: 100%; display: inline-block;" width="480" height="480">
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
