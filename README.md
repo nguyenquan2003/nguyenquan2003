@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
 
 - 📫 How to reach me **quanngoc48@gmail.com**
 
