@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 - 👨‍💻 All of my projects are available at https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
 <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" width="480" height="480">
-<p><a href="https://giphy.com/gifs/pudgypenguins-abstract-tech-abstraction-1vlBgKjXEz1jTtsuiH">via GIPHY</a></p>
 
 
 - 📫 How to reach me **quanngoc48@gmail.com**
