@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
- <p align="center">
+ <p align="right">
         <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width:400px;">
     </p>
     <ul>
