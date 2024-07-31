@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 
-<h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
-
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
     <div style="max-width: 60%;">
         <p>
