@@ -2,7 +2,7 @@
 <p align="center">A passionate developer from Vietnam</p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
 <p align="left">
-  -🎓 I'm a student at HUIT (Ho Chi Minh City University of Industry and Trade)
+  -🎓 I'm a student at HUIT (Ho Chi Minh City University of Industry and Trade)<br>
   -👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a><br>
   -📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a><br>
   -⚡ Fun fact: I love coding and sharing knowledge with others.
