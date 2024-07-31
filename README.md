@@ -6,9 +6,7 @@
         <li>📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a></li>
         <li>⚡ Fun fact: I love coding and sharing knowledge with others.</li>
     </ul>
-<p align="center">
-        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width:400;">
-    </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
