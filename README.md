@@ -12,7 +12,7 @@
     </ul>
   </div>
   <div>
-    <img src="path/to/your/image.png" alt="Your Image" style="max-width: 300px; height: auto;">
+    <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="max-width: 300px; height: auto;">
   </div>
 </div>
 
