@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
-<p>A passionate developer from Vietnam</p>
+<p align="center">A passionate developer from Vietnam</p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
 <p align="left">
   -👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a><br>
