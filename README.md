@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
- <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width:400;">
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
-
-- 📫 How to reach me **quanngoc48@gmail.com**
-
-- ⚡ Fun fact **I love coding and sharing knowledge with others.**
+ <p align="center">
+        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width:400px;">
+    </p>
+    <ul>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a></li>
+        <li>📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a></li>
+        <li>⚡ Fun fact: I love coding and sharing knowledge with others.</li>
+    </ul>
 
 
 
