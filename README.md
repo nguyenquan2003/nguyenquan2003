@@ -1,33 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px;
-        }
-        .content {
-            max-width: 60%;
-        }
-        .image {
-            max-width: 35%;
-        }
-        .image img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 
-<div class="container">
-    <div class="content">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+    <div style="max-width: 60%;">
         <p>
             - 👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories">https://github.com/nguyenquan2003?tab=repositories</a>
         </p>
@@ -38,10 +14,11 @@
             - Fun fact: I love coding and sharing knowledge with others.
         </p>
     </div>
-    <div class="image">
-        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF">
+    <div style="max-width: 35%;">
+        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width: 100%; height: auto;">
     </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
