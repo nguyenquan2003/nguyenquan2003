@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
-<p align="center">A passionate developer from Vietnam</p>
+<h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
+<p align="center">A mobile developer from Vietnam</p>
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
   <div style="max-width: 400px; margin-right: 20px;">
     <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 10px;">🌱 I’m currently learning Flutter</li>
       <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a></li>
+      <li style="margin-bottom: 10px;">💬 Ask me about ****</li>
       <li style="margin-bottom: 10px;">📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a></li>
-      <li style="margin-bottom: 10px;">⚡ Fun fact: I love coding and sharing knowledge with others.</li>
+      <li style="margin-bottom: 10px;">⚡ Fun fact: Everything you can imagine is real :></li>
     </ul>
   </div>
   <div>
-    <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="max-width: 300px; height: auto;">
+    <img src="path/to/your/image.png" alt="Your Image" style="max-width: 300px; height: auto;">
   </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
