@@ -4,8 +4,7 @@
 -👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a><br>
 -📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a><br>
 -⚡ Fun fact: I love coding and sharing knowledge with others.
-<p align="left">
-</p>
+<p align="left"> </p>
 
 
 <h3 align="left">Connect with me:</h3>
