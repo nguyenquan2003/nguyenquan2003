@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 <p>A passionate developer from Vietnam</p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
--👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a>
--📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a><
+-👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories" target="_blank">GitHub Repositories</a><br>
+-📫 How to reach me: <a href="mailto:quanngoc48@gmail.com">quanngoc48@gmail.com</a><br>
 -⚡ Fun fact: I love coding and sharing knowledge with others.
 <p align="left">
 </p>
