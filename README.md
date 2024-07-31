@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=5500&color=0BBE00&center=true&vCenter=true&width=1000&lines=A+passionate+developer+from+Vietnam"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=38&duration=9500&color=0BBE00&center=true&vCenter=true&width=1000&lines=A+passionate+developer+from+Vietnam"/>
 
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif">
