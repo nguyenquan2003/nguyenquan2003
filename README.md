@@ -1,17 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+        .content {
+            max-width: 60%;
+        }
+        .image {
+            max-width: 35%;
+        }
+        .image img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
 
-<p align="right">
-  - 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
-  - 📫 How to reach me **quanngoc48@gmail.com**
-  <br>
-  <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" width="400">
-</p>
-
-
+<div class="container">
+    <div class="content">
+        <p>
+            - 👨‍💻 All of my projects are available at <a href="https://github.com/nguyenquan2003?tab=repositories">https://github.com/nguyenquan2003?tab=repositories</a>
+        </p>
+        <p>
+            - 📫 How to reach me <strong>quanngoc48@gmail.com</strong>
+        </p>
+        <p>
+            - Fun fact: I love coding and sharing knowledge with others.
+        </p>
+    </div>
+    <div class="image">
+        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF">
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/qu%c3%a2n-nguy%e1%bb%85n-a4716824a/" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/qu%c3%a2n-nguy%e1%bb%85n-a4716824a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -69,3 +103,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenquan2003&show_icons=true&locale=en&layout=compact" alt="nguyenquan2003" /></p>
+
+</body>
+</html>
