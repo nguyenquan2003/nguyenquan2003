@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quan</h1>
+- 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
 
+- 📫 How to reach me **quanngoc48@gmail.com**
 <p align="right">
   <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" width="400">
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
-
-- 📫 How to reach me **quanngoc48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
