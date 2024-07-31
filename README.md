@@ -9,13 +9,14 @@
             - 📫 How to reach me <strong>quanngoc48@gmail.com</strong>
         </p>
         <p>
-            - ⚡ Fun fact **I love coding and sharing knowledge with others.**
+            - ⚡ Fun fact: I love coding and sharing knowledge with others.
         </p>
     </div>
-    <div style="max-width: 35%;">
-        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width: 400;">
+    <div style="max-width: 35%; text-align: right;">
+        <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" style="width: 100%; max-width: 400px; height: auto;">
     </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
