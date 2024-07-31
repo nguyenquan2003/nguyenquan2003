@@ -2,7 +2,6 @@
 
 <p align="right">
   - 👨‍💻 All of my projects are available at [https://github.com/nguyenquan2003?tab=repositories](https://github.com/nguyenquan2003?tab=repositories)
-  <br>
   - 📫 How to reach me **quanngoc48@gmail.com**
   <br>
   <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" alt="GIPHY GIF" width="400">
